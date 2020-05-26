@@ -18,4 +18,8 @@ https://seaborn.pydata.org/
 
 ## Veri
 
+https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+
+## Kaggle
+
 https://www.kaggle.com/selimsavas16/seaborn-ile-covid-19-analizi-1
